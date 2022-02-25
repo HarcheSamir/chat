@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/btnback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/edit.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/grdient.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/inputback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/lock.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/mail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/maincolor.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/messageback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/msgrcvdback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/msgsntback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/sendback.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/drawable/texthigh.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/activity_first.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/activity_signup.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/fragment_chatsfragment.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/fragment_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/fragment_users.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/msgrcvd.xml" value="0.25" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/msgsnt.xml" value="0.25" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/oneuser.xml" value="0.5" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/layout/oneuser2.xml" value="0.209375" />
+        <entry key="..\:/Users/gamer i7 2021/AndroidStudioProjects/chitchat/app/src/main/res/menu/menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

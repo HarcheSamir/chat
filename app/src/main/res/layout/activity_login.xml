@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login"
+    android:scrollbars="none"
+    android:clipToPadding="false"
+    android:overScrollMode="always"
+    android:fillViewport="true"
+    android:background="@color/black"
+    >
+
+
+
+
+
+
+
+
+   <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+           android:gravity="center_horizontal"
+            >
+
+
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:layout_alignParentTop="true"
+           android:gravity="center_horizontal"
+
+           >
+<Space
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    />
+           <TextView
+
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:fontFamily="@font/roboto"
+               android:textColor="@color/white"
+               android:textSize="50dp"
+               android:layout_marginRight="70dp"
+               android:text="WELCOME , "
+               android:paddingLeft="30dp"
+
+               />
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:fontFamily="@font/roboto"
+               android:textColor="#BDBDBD"
+               android:layout_marginRight="50dp"
+               android:textSize="25dp"
+               android:paddingLeft="40dp"
+               android:text="please login to continue. "
+
+               />
+
+
+
+
+
+
+
+
+
+
+
+           <Space
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               />
+
+               <EditText
+                   android:layout_marginLeft="30dp"
+                   android:layout_marginRight="30dp"
+                   android:layout_width="match_parent"
+                   android:layout_height="80dp"
+                  android:drawableStart="@drawable/mail"
+                   android:drawableTint="#BDBDBD"
+                  android:background="@drawable/edit"
+                   android:hint="EMAIL"
+                   android:inputType="textEmailAddress"
+                   android:paddingLeft="20dp"
+                   android:drawablePadding="20dp"
+                   android:id="@+id/emailid" />
+
+
+
+
+           <Space
+               android:layout_width="match_parent"
+               android:layout_height="30dp"
+               />
+
+
+               <EditText
+                   android:id="@+id/passwordid"
+                   android:layout_marginLeft="30dp"
+                   android:layout_marginRight="30dp"
+                   android:layout_width="match_parent"
+                   android:inputType="textPassword"
+                   android:layout_height="80dp"
+                   android:drawableStart="@drawable/lock"
+                   android:drawableTint="#bdbdbd"
+                   android:drawablePadding="20dp"
+                   android:paddingLeft="20dp"
+                   android:hint="PASSWORD"
+                   android:background="@drawable/edit"
+                   />
+
+<Button
+    android:id="@+id/loginid"
+    android:layout_marginTop="60dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btnback"
+    android:text="            LOGIN            "
+    android:padding="20dp"
+    android:textSize="25dp"
+    android:textColor="#154360 "
+    />
+
+
+       </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_alignParentBottom="true"
+           android:gravity="center_horizontal"
+           >
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#696969"
+                android:text="Don't have an account?"
+                android:id="@+id/t"
+                android:textSize="18dp"
+                android:layout_marginBottom="50dp"
+
+                />
+            <TextView
+                android:clickable="true"
+                android:id="@+id/signid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#25d366"
+                android:text="  Sign up."
+                android:textSize="22dp"
+                android:layout_marginBottom="50dp"
+                />
+       </LinearLayout>
+        </RelativeLayout>
+
+
+</ScrollView>
